@@ -9,4 +9,4 @@ In this project you can search any github username and it fetches the data from 
 
 ## Project link
 
-[ ]( )
+[Github Username Search App](https://github-username-search-app.vercel.app/ )
